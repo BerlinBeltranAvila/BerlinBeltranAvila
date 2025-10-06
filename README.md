@@ -19,3 +19,5 @@ I thrive on solving complex challenges and am always eager to learn new technolo
 * **LinkedIn:** [https://www.linkedin.com/in/berlinbeltranavila/]
 * **GitHub:** [https://github.com/BerlinBeltranAvila]
 * **Email:** [alexanderbeltranavila@gmail.com]
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BerlinBeltranAvila)](https://git.io/streak-stats)
